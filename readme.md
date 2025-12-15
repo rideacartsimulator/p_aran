@@ -6,3 +6,4 @@ Ce projet contient un script Bash `hello.sh` qui :
 2. Affiche **Bonjour Monde !**
 
 Projet réalisé dans le cadre du cours Git.
+Modification sur la branche prestataire
